@@ -1,1 +1,1 @@
-Movie app using Reactjs + Redux-toolkits
+Movie Recommentation app using Reactjs + Redux-toolkits
